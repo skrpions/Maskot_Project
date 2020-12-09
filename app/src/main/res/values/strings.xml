@@ -1,3 +1,16 @@
 <resources>
     <string name="app_name">Maskot</string>
+    <string name="mensaje">Maskot Favorita</string>
+    <string name="texto_accion">ACCIÓN</string>
+
+    <string-array name="planetas">
+        <item>Mercurio</item>
+        <item>Venus</item>
+        <item>Tierra</item>
+        <item>Júpiter</item>
+        <item>Sáturno</item>
+        <item>Urano</item>
+        <item>Neptuno</item>
+        <item>Plutón</item>
+    </string-array>
 </resources>
