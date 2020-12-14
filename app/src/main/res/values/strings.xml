@@ -13,4 +13,7 @@
         <item>Neptuno</item>
         <item>Plutón</item>
     </string-array>
+
+    <string name="titulo_lollipop">Android 5.0</string>
+    <string name="descripcion_lollipop">Esta es la versión en la que se incluyo material design</string>
 </resources>

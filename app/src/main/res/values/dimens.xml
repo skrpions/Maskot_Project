@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Dp -->
+    <dimen name="activity_margin_left">16dp</dimen>
+    <dimen name="activity_margin_rigth">16dp</dimen>
+    <dimen name="altura_lvMiLista">200dp</dimen>
+    <dimen name="cardview_medida">200dp</dimen>
+
+    <!-- Sp -->
+    <dimen name="size_ttitulo_cardview">12sp</dimen>
+</resources>
